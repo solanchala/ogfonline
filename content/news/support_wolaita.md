@@ -15,7 +15,6 @@ categories:
   - "Politics"
 tags:
   - "Politics"
-  - "Tsegaye A"
 
 # post type
 type: "featured"
