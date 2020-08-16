@@ -109,7 +109,7 @@ enableInlineShortcodes = true
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
+logo = "images/logo_2.png"
 home = "Home"
 # Meta data
 description = "Online magazine on Oromo affairs"
