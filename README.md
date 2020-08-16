@@ -1,2 +1,2 @@
-# ocommentary
+# oromia global forum
 hugo site
