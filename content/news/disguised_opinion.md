@@ -15,11 +15,11 @@ categories:
   - "Politics"
 tags:
   - "Politics"
-  - "Tsegaye A"
+  - "Yohannes Gedamu"
 
 # post type
-type: "featured"
-#type: "post"
+#type: "featured"
+type: "post"
 ---
 
 
